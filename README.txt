@@ -1,3 +1,5 @@
+notice this was a Coursera assignment i used some already rendered code but I added some lines to search for a new place that was (Alexandria university)
+also i did some management to the opengeo.sqlite database
 Using the OpenStreetMap API with the database and data visualization
 on OpenStreetMap.
 
